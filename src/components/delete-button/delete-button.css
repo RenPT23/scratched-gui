@@ -18,7 +18,7 @@
   overflow: hidden;  /* Mask the icon animation */
   width: 1.75rem;
   height: 1.75rem;
-  box-shadow: 0px 0px 0px 2px $looks-transparent;
+  box-shadow: 0px 0px 0px 4px $looks-transparent;
   background-color: $looks-secondary;
   color: $ui-white;
   border-radius: 50%;
@@ -30,7 +30,7 @@
 
 .delete-icon {
     position: relative;
-    margin: 0.25rem;
+    margin: 0.4rem;
     user-select: none;
     transform-origin: 50%;
 }
